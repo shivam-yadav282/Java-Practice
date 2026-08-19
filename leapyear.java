@@ -18,4 +18,3 @@ public class leapyear {
     }
     
 }
-8
